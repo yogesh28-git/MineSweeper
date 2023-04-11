@@ -1,3 +1,6 @@
+#ifndef Game_HEADER
+#define Game_HEADER
+
 #include <iostream>
 #include <cstdlib>
 #include "Board.h"
@@ -121,3 +124,5 @@ class Game
         }
 
 };
+
+#endif
